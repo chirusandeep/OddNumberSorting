@@ -1,5 +1,5 @@
 # OddNumberSorting
-Task from Hogarth
+Task from Hogarth,
 This Java program sorts odd numbers in an array in ascending order while keeping even numbers and zeros in their original positions.
 
 ## Problem Statement
